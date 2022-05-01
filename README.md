@@ -23,3 +23,8 @@ You would use this whenever you are creating a(n) new repository for use as this
 I used .js, node.js, as well as the Inquirer library.
 
 ## License
+
+
+https://user-images.githubusercontent.com/99390832/166142301-88c041d5-33ff-4900-894d-2ee9a863198e.mp4
+
+file:///C:/Users/gizmo/Downloads/readMe_generator.mp4
